@@ -8,7 +8,7 @@
 
 ## Snake case
 
-    *Minden szó között használunk egy _ jelet.
+    *Minden szó között használunk egy _ jelet.*
     pl: pelda_erre_asd
 
     Változók illetve metódusok elnevezésére használjuk leginkább, de hasznos lehet a fájlok elnevezésére is.
