@@ -2,9 +2,9 @@
 
 ## Case-ek amiket használunk:
 #### Snake case
-### Kebab case
-### Camel case
-### Pascal case
+#### Kebab case
+#### Camel case
+#### Pascal case
 
 ## Snake case
 
@@ -82,9 +82,9 @@
 
 ## A tiszta kód előnyei
 
-### Egyszerű módosításokat lehet végezni
-### Kevesebb hiba
-### Kevesebb kód
+#### Egyszerű módosításokat lehet végezni
+#### Kevesebb hiba
+#### Kevesebb kód
 
 
 
