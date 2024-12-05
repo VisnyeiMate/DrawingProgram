@@ -1,10 +1,10 @@
 # Snake Case VS Camel Case VS Pascal Case VS Kebab Case
 
 ## Case-ek amiket használunk:
-    ### Snake case
-    ### Kebab case
-    ### Camel case
-    ### Pascal case
+### Snake case
+### Kebab case
+### Camel case
+### Pascal case
 
 ## Snake case
 
@@ -82,9 +82,9 @@
 
 ## A tiszta kód előnyei
 
-    ### Egyszerű módosításokat lehet végezni
-    ### Kevesebb hiba
-    ### Kevesebb kód
+### Egyszerű módosításokat lehet végezni
+### Kevesebb hiba
+### Kevesebb kód
 
 
 
