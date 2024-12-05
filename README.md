@@ -1,7 +1,7 @@
 # Snake Case VS Camel Case VS Pascal Case VS Kebab Case
 
 ## Case-ek amiket használunk:
-### Snake case
+#### Snake case
 ### Kebab case
 ### Camel case
 ### Pascal case
